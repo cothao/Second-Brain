@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fa4b32745b01b7d",
+  "active": "190202fb8404813c",
   "lastOpenFiles": [
     "To-do List.md",
     "Developer Logs/2024-11-03 DevLog.md",
