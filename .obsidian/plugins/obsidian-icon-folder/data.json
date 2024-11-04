@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiCheckCheck",
+      "LiLineChart",
+      "LiImages",
+      "LiLogs",
+      "LiCodepen"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +32,10 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Computer Graphics": "LiCodepen",
+  "Developer Logs": "LiLogs",
+  "Images": "LiImages",
+  "Math": "LiLineChart",
+  "To-do List.md": "LiCheckCheck"
 }
