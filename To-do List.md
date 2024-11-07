@@ -1,3 +1,3 @@
 - [ ] Create shadow mapping and occlusion for lighting in game engine 🔽
 - [ ] Revise Matrix Rotation Section in Matrices page 🔼 
-- [ ] 
+- [ ] Finish Phong Model page🔼 
