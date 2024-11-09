@@ -1,4 +1,4 @@
-To create a rectangle in GLSL, we first have to create a function for creating a band, which involves smoothstepping (see [[GLSL Functions]] for more info).
+ To create a rectangle in GLSL, we first have to create a function for creating a band, which involves smoothstepping (see [[GLSL Functions]] for more info).
 
 It's important to recognize how the smoothstep function looks on a graph, as it interpolates between the given x and y coordinate.
 
