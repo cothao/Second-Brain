@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Shading/Concepts/Creating a Camera.md",
+                "file": "Computer Graphics/Shading/GLSL Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating a Camera"
+              "title": "GLSL Functions"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Shading/Concepts/Creating a Camera.md"
+                "file": "Computer Graphics/Shading/GLSL Functions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a Camera"
+              "title": "Outline of GLSL Functions"
             }
           },
           {
@@ -226,9 +226,12 @@
   },
   "active": "8a1aeea5b3a4a9f3",
   "lastOpenFiles": [
-    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
     "Computer Graphics/Shading/Concepts/Remapping Values.md",
+    "Computer Graphics/Shading/Concepts/Closest Point.md",
+    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
     "Computer Graphics/Shading/Concepts/Creating 3D.md",
+    "Computer Graphics/Shading/Concepts/Creating a Rectangle.md",
+    "Untitled.md",
     "Computer Graphics/Phong Model.md",
     "Computer Graphics/Table of Contents.md",
     "Developer Logs/2024-11-03 DevLog.md",
@@ -237,7 +240,6 @@
     "Images/Attenuation.png",
     "Developer Logs/2024-11-06 DevLog.md",
     "Computer Graphics/Shading/GLSL Functions.md",
-    "Computer Graphics/Shading/Concepts/Creating a Rectangle.md",
     "Images/Distance_of_ray_to_point.png",
     "Untitled.canvas",
     "Images/Lovey.png",
@@ -270,7 +272,6 @@
     "Sine and Cosine explained visually.md",
     "Homogenous Coordinates.md",
     "Pythagoras Theorem.md",
-    "Vec.md",
-    "programming.md"
+    "Vec.md"
   ]
 }
