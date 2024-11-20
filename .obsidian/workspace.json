@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Adding-Text-&-FPS.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Adding-Text-&-FPS"
             }
           },
           {
@@ -107,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Adding-Text-&-FPS.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Adding-Text-&-FPS"
             }
           },
           {
@@ -157,9 +159,15 @@
   },
   "active": "714976f58a53b61b",
   "lastOpenFiles": [
-    "Developer Logs/2024-11-10 DevLog.md",
+    "Developer Logs/2024-11-19 DevLog.md",
+    "Images/wired_mode.png",
+    "Images/edit_mode.png",
     "Developer Logs/2024-11-14 DevLog.md",
     "Developer Logs/2024-11-03 DevLog.md",
-    "Developer Logs/2024-11-06 DevLog.md"
+    "Developer Logs/2024-11-10 DevLog.md",
+    "Developer Logs/2024-11-06 DevLog.md",
+    "Images/Adding-Text-&-FPS.png",
+    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
+    "Computer Graphics/Shading/Concepts/Creating 3D.md"
   ]
 }
