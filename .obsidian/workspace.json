@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93ca25a3d959ded8",
+        "id": "abbbfc595223632b",
         "type": "tabs",
         "children": [
           {
-            "id": "714976f58a53b61b",
+            "id": "704d5646cc95ec72",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,17 +157,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714976f58a53b61b",
+  "active": "704d5646cc95ec72",
   "lastOpenFiles": [
+    "Computer Graphics/Shading/Concepts/Shape Index For RayMarching.md",
+    "Computer Graphics/Shading/Concepts/Adding Lighting And Shadows to Raymarching.md",
+    "Computer Graphics/Shading/Concepts/Simple Raymarching.md",
+    "Computer Graphics/Shading/Concepts/Creating Normal Vectors.md",
+    "Computer Graphics/Shading/Concepts/Closest Point.md",
+    "Images/lighting_example2.png",
+    "Images/lighting_example2.png.crdownload",
+    "Computer Graphics/Shading/Concepts/Remapping Values.md",
+    "Computer Graphics/Shading/Concepts/Creating a Rectangle.md",
+    "Computer Graphics/Shading/Concepts/Creating 3D.md",
+    "Math/Vectors.md",
+    "Computer Graphics/Shading/GLSL Functions.md",
+    "Images/lighting_example1.png",
+    "Computer Graphics/Phong Model.md",
+    "Images/raymarch_example5.png",
+    "Images/raymarch_example5.png.crdownload",
+    "Images/raymarch_example4.png",
+    "Images/raymarch_example3.png",
+    "Images/raymarch_example2.png",
+    "Images/raymarch_example1.png",
     "Developer Logs/2024-11-19 DevLog.md",
+    "Math/Linear Algebra Table of Contents.md",
+    "Math/Homogeneous Coordinates & Projective Geometry.md",
+    "Programming Table Of Contents.md",
+    "Math/Projection Matrix.md",
+    "Math/Matrices.md",
+    "Math/Linear Relationships.md",
+    "Computer Graphics/Table of Contents.md",
+    "Developer Logs/2024-11-03 DevLog.md",
+    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
     "Images/wired_mode.png",
     "Images/edit_mode.png",
     "Developer Logs/2024-11-14 DevLog.md",
-    "Developer Logs/2024-11-03 DevLog.md",
     "Developer Logs/2024-11-10 DevLog.md",
     "Developer Logs/2024-11-06 DevLog.md",
-    "Images/Adding-Text-&-FPS.png",
-    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
-    "Computer Graphics/Shading/Concepts/Creating 3D.md"
+    "Images/Adding-Text-&-FPS.png"
   ]
 }
