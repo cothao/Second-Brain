@@ -4,7 +4,7 @@
 [[#^c98a61|Cube]]
 [[#^6181ba|Torus]]
 [[#^e62da9|Capsule]]
-[[#^5989f7|Cylinder]]
+[[#^391f00|Cylinder]]
 
 
 
@@ -74,6 +74,37 @@ float SDTorus(vec3 p, vec2 r)
 	float d = length(vec2(x,y)) - r.y;
 
 	return d;
+
+}
+```
+
+# [[Signed Distance Field of Cylinder|Cylinder]]
+
+^391f00
+
+![[cylinder_sdf.png]]
+
+```
+float SDCylinder(vec3 p, vec3 a, vec3 b, float r)
+{
+
+	vec3 ab = b - a;
+	
+	vec3 ap = p - a;
+
+	float d = dot(ap, ab)/dot(ab, ab);
+
+	vec3 c = a + d * ab;
+
+	float x = length(p - c) - r;
+
+	float y = ((abs(d) - .5) - .5) * length(ab);
+
+	float e = length(max(vec2(x,y), 0.));
+
+	float i = min(max(x , y), 0.);
+
+	return e + i;
 
 }
 ```

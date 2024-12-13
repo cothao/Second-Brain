@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abbbfc595223632b",
+        "id": "b73dcfb6b90bc96e",
         "type": "tabs",
         "children": [
           {
-            "id": "704d5646cc95ec72",
+            "id": "98817949db96b896",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -157,10 +157,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "704d5646cc95ec72",
+  "active": "98817949db96b896",
   "lastOpenFiles": [
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Torus.md",
     "Computer Graphics/Shading/Concepts/Primitive RayMarch Index.md",
+    "Computer Graphics/Shading/Concepts/Creating Normal Vectors.md",
+    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Cylinder.md",
+    "Images/cylinder_raymarch2.png",
+    "Images/cylinder_raymarch1.png",
+    "Images/cylinder_sdf.png",
+    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Torus.md",
     "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Sphere.md",
     "Images/torus_raymarch_3.png",
     "Computer Graphics/Shading/Concepts/Adding Lighting And Shadows to Raymarching.md",
@@ -173,7 +178,6 @@
     "Computer Graphics/Shading/GLSL Functions.md",
     "Computer Graphics/Shading/Concepts/Simple Raymarching.md",
     "Computer Graphics/Shading/Concepts/Remapping Values.md",
-    "Computer Graphics/Shading/Concepts/Creating Normal Vectors.md",
     "Computer Graphics/Shading/Concepts/Creating a Rectangle.md",
     "Computer Graphics/Shading/Concepts/Creating a Camera.md",
     "Computer Graphics/Shading/Concepts/Creating 3D.md",
@@ -181,9 +185,6 @@
     "Computer Graphics/Shading/Concepts/SDF Primitive Concepts",
     "Images/cube_raymarch_3.png",
     "Images/cube_raymarch_2.png",
-    "Images/cube_raymarch_1.png",
-    "Images/circle_raymarch_3.png",
-    "Images/circle_raymarch_2.png",
     "Images/torus_sdf.png.crdownload",
     "Images/cube_sdf.png.crdownload",
     "Images/capsule_sdf.png.crdownload",
@@ -198,7 +199,6 @@
     "Programming Table Of Contents.md",
     "Math/Projection Matrix.md",
     "Math/Linear Relationships.md",
-    "Computer Graphics/Table of Contents.md",
-    "Developer Logs/2024-11-03 DevLog.md"
+    "Computer Graphics/Table of Contents.md"
   ]
 }
