@@ -1,3 +1,6 @@
 - [ ] Create shadow mapping and occlusion for lighting in game engine 🔽
 - [ ] Revise Matrix Rotation Section in Matrices page 🔼 
 - [ ] Finish Phong Model page🔼 
+- [ ] Create Window object for sorting transparent/opaque objects 🔼 
+- [x] Create character model for camera ⏫ ✅ 2024-12-24
+- [x] Move collision functionality to it's own file ⏫ ✅ 2025-01-09

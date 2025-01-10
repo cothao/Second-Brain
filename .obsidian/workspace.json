@@ -11,10 +11,14 @@
             "id": "98817949db96b896",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Developer Logs/2025-01-09 DevLog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-01-09 DevLog"
             }
           }
         ]
@@ -90,7 +94,7 @@
               "type": "backlink",
               "state": {
                 "file": "Images/Adding-Text-&-FPS.png",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Developer Logs/2025-01-09 DevLog.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-01-09 DevLog"
             }
           }
         ]
@@ -159,46 +165,48 @@
   },
   "active": "98817949db96b896",
   "lastOpenFiles": [
-    "Computer Graphics/Shading/Concepts/Primitive RayMarch Index.md",
-    "Computer Graphics/Shading/Concepts/Creating Normal Vectors.md",
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Cylinder.md",
+    "Images/DevLog-1-9-25-1.png",
+    "Developer Logs/2025-01-09 DevLog.md",
+    "Untitled.md",
+    "Developer Logs/2025-01-08 DevLog.md",
+    "Developer Logs/Untitled.md",
+    "Roblox/Collision.md",
+    "To-do List.md",
+    "Developer Logs/2024-11-03 DevLog.md",
+    "Developer Logs/2024-11-06 DevLog.md",
+    "Developer Logs/2024-11-10 DevLog.md",
+    "Developer Logs/2024-11-14 DevLog.md",
+    "Developer Logs/2024-11-19 DevLog.md",
+    "Roblox",
+    "Math/Vectors.md",
+    "Math/Similar Triangles.md",
+    "Math/Projection Matrix.md",
+    "Math/Matrices.md",
+    "Math/Linear Relationships.md",
+    "Math/Linear Algebra Table of Contents.md",
+    "Math/Homogeneous Coordinates & Projective Geometry.md",
+    "Computer Graphics/Table of Contents.md",
+    "Computer Graphics/Phong Model.md",
+    "Images/gl_projectionmatrix_eq10 (1).png",
+    "Images/gl_projectionmatrix_eq10.png",
+    "Images/gl_projectionmatrix_eq12.png",
+    "Images/cylinder_sdf.png",
+    "Images/cube_sdf.png",
+    "Images/cube_raymarch_1.png",
+    "Images/capsule_raymarch_2.png",
+    "Images/capsule_sdf.png",
+    "Computer Graphics/Shading/Concepts/Creating 3D.md",
+    "Computer Graphics/Shading/Concepts/Simple Raymarching.md",
+    "Computer Graphics/Shading/Concepts/Adding Lighting And Shadows to Raymarching.md",
+    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Torus.md",
+    "Computer Graphics/Shading/Concepts/Closest Point.md",
     "Images/cylinder_raymarch2.png",
     "Images/cylinder_raymarch1.png",
-    "Images/cylinder_sdf.png",
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Torus.md",
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Sphere.md",
-    "Images/torus_raymarch_3.png",
-    "Computer Graphics/Shading/Concepts/Adding Lighting And Shadows to Raymarching.md",
-    "Images/torus_raymarch_2.png",
-    "Images/torus_raymarch_1.png",
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Capsule.md",
-    "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Cube.md",
-    "Images/capsule_raymarch_2.png",
-    "Images/capsule_raymarch_1.png",
-    "Computer Graphics/Shading/GLSL Functions.md",
-    "Computer Graphics/Shading/Concepts/Simple Raymarching.md",
-    "Computer Graphics/Shading/Concepts/Remapping Values.md",
-    "Computer Graphics/Shading/Concepts/Creating a Rectangle.md",
-    "Computer Graphics/Shading/Concepts/Creating a Camera.md",
-    "Computer Graphics/Shading/Concepts/Creating 3D.md",
-    "Computer Graphics/Shading/Concepts/Closest Point.md",
     "Computer Graphics/Shading/Concepts/SDF Primitive Concepts",
-    "Images/cube_raymarch_3.png",
-    "Images/cube_raymarch_2.png",
     "Images/torus_sdf.png.crdownload",
     "Images/cube_sdf.png.crdownload",
     "Images/capsule_sdf.png.crdownload",
-    "Math/Matrices.md",
     "Images/lighting_example2.png.crdownload",
-    "Math/Vectors.md",
-    "Computer Graphics/Phong Model.md",
-    "Images/raymarch_example5.png.crdownload",
-    "Developer Logs/2024-11-19 DevLog.md",
-    "Math/Linear Algebra Table of Contents.md",
-    "Math/Homogeneous Coordinates & Projective Geometry.md",
-    "Programming Table Of Contents.md",
-    "Math/Projection Matrix.md",
-    "Math/Linear Relationships.md",
-    "Computer Graphics/Table of Contents.md"
+    "Images/raymarch_example5.png.crdownload"
   ]
 }
