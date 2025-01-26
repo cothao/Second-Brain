@@ -4,3 +4,12 @@
 - [ ] Create Window object for sorting transparent/opaque objects 🔼 
 - [x] Create character model for camera ⏫ ✅ 2024-12-24
 - [x] Move collision functionality to it's own file ⏫ ✅ 2025-01-09
+- [ ] Finish Roblox RPS Game ⏫
+	- [x] Finish Basic RPS Game ✅ 2025-01-12
+	- [x] Add multiplayer functionality ✅ 2025-01-12
+	- [x] Add player health hitting ✅ 2025-01-19
+	- [ ] Timed rounds
+	- [x] Confirm input ✅ 2025-01-19
+	- [ ] Better GUI
+	- [ ] Choosing Item slots
+

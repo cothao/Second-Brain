@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer Logs/2025-01-09 DevLog.md",
+                "file": "To-do List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-09 DevLog"
+              "title": "To-do List"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developer Logs/2025-01-09 DevLog.md"
+                "file": "To-do List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-09 DevLog"
+              "title": "Outline of To-do List"
             }
           }
         ]
@@ -165,18 +165,19 @@
   },
   "active": "98817949db96b896",
   "lastOpenFiles": [
-    "Images/DevLog-1-9-25-1.png",
+    "Programming Table Of Contents.md",
+    "To-do List.md",
+    "Developer Logs/2024-11-19 DevLog.md",
     "Developer Logs/2025-01-09 DevLog.md",
+    "Images/DevLog-1-9-25-1.png",
     "Untitled.md",
     "Developer Logs/2025-01-08 DevLog.md",
     "Developer Logs/Untitled.md",
     "Roblox/Collision.md",
-    "To-do List.md",
     "Developer Logs/2024-11-03 DevLog.md",
     "Developer Logs/2024-11-06 DevLog.md",
     "Developer Logs/2024-11-10 DevLog.md",
     "Developer Logs/2024-11-14 DevLog.md",
-    "Developer Logs/2024-11-19 DevLog.md",
     "Roblox",
     "Math/Vectors.md",
     "Math/Similar Triangles.md",
@@ -201,7 +202,6 @@
     "Computer Graphics/Shading/Concepts/SDF Primitive Concepts/Signed Distance Field of Torus.md",
     "Computer Graphics/Shading/Concepts/Closest Point.md",
     "Images/cylinder_raymarch2.png",
-    "Images/cylinder_raymarch1.png",
     "Computer Graphics/Shading/Concepts/SDF Primitive Concepts",
     "Images/torus_sdf.png.crdownload",
     "Images/cube_sdf.png.crdownload",
